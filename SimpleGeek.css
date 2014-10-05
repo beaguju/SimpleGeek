@@ -70,3 +70,21 @@ nav {
 .cabecera h2 {
 	font-size: 28pt;
 }
+
+.galeria {
+	position: relative;
+	list-style-type: none;
+	height: 500px;
+	width: 80%;
+	margin-top: 650px;
+	margin-bottom: 50px;
+}
+
+.galeria li img {
+	float: left;
+	margin: 40px;
+	width: 300px;
+	line-height: 300px;
+}
+
+
