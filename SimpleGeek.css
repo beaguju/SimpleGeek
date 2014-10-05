@@ -87,4 +87,37 @@ nav {
 	line-height: 300px;
 }
 
+.footer {
+	background-color: #202020;
+	margin: 250px 0 0 0;
+	color: white;
+	height: 400px;
+}
 
+.contenedor {
+	width: 75%;
+	position: relative;
+	margin: 5px auto;
+	padding: 5px;
+}
+.contenedor h4 {
+	color: #999992;
+	padding-bottom: 20px;
+	font-size: 16pt;
+}
+
+.contenedor table {
+	padding: 30px;
+	margin: 50px;
+	width: 130%;
+	line-height: 150%;
+	font-size: 14pt;
+
+}
+
+.contenedor h3 {
+	text-align: center;
+	color: #999992;
+	font-size: 14pt;
+	padding-top: 60px;
+}
